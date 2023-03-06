@@ -1,0 +1,16 @@
+La presente carpeta cuenta con toda la información y entregables necesarios del proyecto del segundo bimestre de la materia de Recuperación de Información.
+
+"Informe_ModeloProbabilístico.docx":
+Es un documento con el análisis, diseño y otros conceptos teóricos desarrollados para la implementación del modelo.
+A su vez, este documento cuenta con capturas de pantalla que son el resultado de la ejecución del modelo, como pruebas de su usabilidad.
+
+"Código Fuente":
+En esta carpeta, se encuentra todo lo referente al código fuente que implemente el modelo probabilístico, así como los documentos utilizados.
+	"doc1.txt","doc2.txt","doc3.txt":
+	Es el conjunto de documentos (colección) utilizado para la ejecución del modelo.
+	
+	"ProyectoRI.ipynb":
+	Aquí se encuentra el código fuente en formato de notas (ipynb), por lo que se recomienda abrir utilizando herramientas como Jupyter Notebook, Google Colab o semejantes.
+
+	"ProyectoRI.py":
+	Aquí se encuentra el código fuente en formato usual de python (py), por lo que se recomienda abrir utilizando herramientas como Spyder, Python IDLE, PyCharm o semejantes.
